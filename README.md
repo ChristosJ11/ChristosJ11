@@ -1,6 +1,6 @@
 -  Hi, I’m @ChristosJ11
 - I’m interested in Web and Mobile Applications and AI related projects
-- I’m currently learning Data Structures
+- I’m currently learning Data Structures, Algorithms, and Neural Networks from Scratch
 
 
 <!---
